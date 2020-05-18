@@ -1,6 +1,6 @@
 # datasetdecay
 
-_Project status_: Accepted in eLife.
+_Project status_: Accepted in eLife (https://doi.org/10.7554/eLife.53498)
 
 Code organization: 
 
